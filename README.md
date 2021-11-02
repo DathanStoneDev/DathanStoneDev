@@ -3,7 +3,11 @@
 <!--
 **DathanStoneDev/DathanStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##I'm a former Microbiologist and Regulatory Affairs Specialist who decided to pursue their passion for tech :computer:
+
+:gem: I'm a budding Software Developer who enjoys learning as much as possible when it comes to programming.
+:gem: I'll be graduating from WGU in December 2021 with my second Bachelors degree: Bsc in Software Development.
+:gem: I'm looking for any entry/junior level developer/QA opportunities currently and my goal is to land that first softawre job this    year!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
