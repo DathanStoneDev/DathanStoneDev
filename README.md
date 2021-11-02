@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on my PokeLocator Application! (Frontend and Backend).
 - 🌱 I’m currently diving a little deeper into springboot and mongodb. Experimenting with React as well, and a little Express.js!
-- 📫 How to reach me: ![Linkedin]()
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Contact me:
+<a href="https://www.linkedin.com/in/dathanstone0327/"><img src = "Icons/linkedin.png" width=30></a>
+<a href="developer.stone@outlook.com"><img src = "Icons/email.png" width=30></a>
+
