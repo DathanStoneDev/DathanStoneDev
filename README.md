@@ -1,4 +1,4 @@
-### Hi! My name is Dathan...I swear thats my real name 👋
+### Hi! My name is Dathan...I swear thats my real name :upside_down_face:
 
 <!--
 **DathanStoneDev/DathanStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
