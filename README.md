@@ -3,8 +3,8 @@
 ### I'm a former Microbiologist and Regulatory Affairs Specialist who decided to pursue their passion for tech :computer:
 
 :gem: I'm a Software Developer who enjoys learning as much as possible when it comes to programming. I lean towards creating backend projects that are data driven.
-:gem: I love working with SQL and datasets. I tend to grab large datasets from Kaggle, clean the data and work with it from there!
-:gem: I dabble with HTML, CSS and JavaScript/React for the front end.
+I love working with SQL and datasets. I tend to grab large datasets from Kaggle, clean the data and work with it from there!
+I also dabble with HTML, CSS and JavaScript/React for the front end.
 
 ### Current Technologies:
 
