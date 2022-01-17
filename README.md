@@ -2,12 +2,9 @@
 
 ### I'm a former Microbiologist and Regulatory Affairs Specialist who decided to pursue their passion for tech :computer:
 
-:gem: I'm a budding Software Developer who enjoys learning as much as possible when it comes to programming.  
-:gem: I'll be graduating from WGU in December 2021 with my second Bachelors degree: Bsc in Software Development.  
-:gem: I'm looking for any entry/junior level developer/QA opportunities currently :pinched_fingers:
-
-:point_right: I’m currently working on my PokeLocator Application! (Frontend and Backend).  
-:point_right: I’m currently diving a little deeper into springboot and mongodb. Experimenting with React as well, and a little Express.js!
+:gem: I'm a Software Developer who enjoys learning as much as possible when it comes to programming. I lean towards creating backend projects that are data driven.
+:gem: I love working with SQL and datasets. I tend to grab large datasets from Kaggle, clean the data and work with it from there!
+:gem: I dabble with HTML, CSS and JavaScript/React for the front end.
 
 ### Current Technologies:
 
@@ -25,6 +22,6 @@
 
 <a href="https://www.linkedin.com/in/dathanstone0327/"><img src = "Icons/linkedin.png" width=30></a>
 <img src = "Icons/email.png" width=30>
-developer.stone@outlook.com
+dstonedds@outlook.com
 
 
