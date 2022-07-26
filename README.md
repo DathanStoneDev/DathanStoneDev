@@ -19,9 +19,7 @@ I also dabble with HTML, CSS and JavaScript/React for the front end.
 <img src = "Icons/git.png" width=30>
 
 ### Contact me:
+Check out my portfolio site: www.devstone.io and leave me a message! 
 
-<a href="https://www.linkedin.com/in/dathanstone0327/"><img src = "Icons/linkedin.png" width=30></a>
-<img src = "Icons/email.png" width=30>
-dstonedds@outlook.com
 
 
