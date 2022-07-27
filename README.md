@@ -1,22 +1,52 @@
-# Hi! My name is Dathan...I swear thats my real name :upside_down_face:
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif">
+    <div id="badges">
+        <a href = "https://www.devstone.io">
+            <img src="https://img.shields.io/badge/Portfolio-DevStone-blue?style=for-the-badge&logo=appveyor">
+        </a>
+    </div>
+</div>
 
-### I'm a former Microbiologist and Regulatory Affairs Specialist who decided to pursue their passion for tech :computer:
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=DathanStoneDev">
+</div>
 
-:gem: I'm a Software Developer who enjoys learning as much as possible when it comes to programming. I lean towards creating backend projects that are data driven.
-I love working with SQL and datasets. I tend to grab large datasets from Kaggle, clean the data and work with it from there!
-I also dabble with HTML, CSS and JavaScript/React for the front end.
+<div align="center">
+    <h1> Hello There :metal: </h1>
+</div>
 
-### Current Technologies:
+### My Name is Dathan Stone!
 
-<img src = "Icons/html-5.png" width=30><img src = "Icons/css.png" width=30>
-<img src = "Icons/tailwind.svg" width=30>
-<img src = "Icons/js.png" width=30>
-<img src = "Icons/react.png" width=30>
-<img src = "Icons/java.png" width=30>
-<img src = "Icons/icons8-spring-logo-48.png" width=30>
-<img src = "Icons/mysql.png" width=30>
-<img src = "Icons/icons8-mongodb-48.png" width=30>
-<img src = "Icons/git.png" width=30>
+### :computer: Former Microbiologist/Regulatory Affairs Specialist who decided to pursue their passion for tech :computer:
+
+I'm a recent graduate from Western Governors University with my second bachelors degree: B.S Software Development. I consider myself a life long student and enjoy learning as much as possible, especially when it comes to programming. I lean towards creating backend and mobile applications, but also dabble a little in the front-end.
+
+### Languages:
+ :small_blue_diamond: Java
+ :small_blue_diamond: Kotlin
+ :small_blue_diamond: SQL
+ :small_blue_diamond: HTML 5
+ :small_blue_diamond: CSS 3
+ :small_blue_diamond: Javascript
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DathanStoneDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+### Frameworks:
+:small_blue_diamond: Spring Boot
+:small_blue_diamond: Jetpack Compose
+:small_blue_diamond: Hint of React
+
+### Tools:
+ :small_blue_diamond: Git
+ :small_blue_diamond: AWS
+ :small_blue_diamond: MongoDB
+ :small_blue_diamond: MySQL
+ :small_blue_diamond: VS Code
+ :small_blue_diamond: IntelliJ
+ :small_blue_diamond: Android Studio
+ 
 
 ### Contact me:
 Check out my portfolio site: www.devstone.io and leave me a message! 
