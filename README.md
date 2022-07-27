@@ -48,8 +48,14 @@ I'm a recent graduate from Western Governors University with my second bachelors
  :small_blue_diamond: Android Studio
  
 
-### Contact me:
-Check out my portfolio site: www.devstone.io and leave me a message! 
+<div id="contact" align="center">
+    <a href = "https://www.devstone.io">
+        <img src = "https://media.giphy.com/media/8ZcdwzxoFi1SilItlT/giphy.gif"> 
+    </a>
+    <h2>Contact Me!</h2>
+    <h3>(Click the cool little gif above)</h3>
+</div>
+
 
 
 
