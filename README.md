@@ -49,7 +49,7 @@ I'm a recent graduate from Western Governors University with my second bachelors
  
 
 <div id="contact" align="center">
-    <a href = "https://www.devstone.io">
+    <a href = "https://www.devstone.io/#contact-section">
         <img src = "https://media.giphy.com/media/8ZcdwzxoFi1SilItlT/giphy.gif"> 
     </a>
     <h2>Contact Me!</h2>
