@@ -47,6 +47,9 @@ I'm a recent graduate from Western Governors University with my second bachelors
  :small_blue_diamond: IntelliJ
  :small_blue_diamond: Android Studio
  
+ 
+ ### Current Project I'm Working On:
+ :small_blue_diamond: <a href="https://github.com/DathanStoneDev/Random-Animal-Facts">Random Animal Facts - Android Application</a>
 
 <div id="contact" align="center">
     <a href = "https://www.devstone.io/#contact-section">
