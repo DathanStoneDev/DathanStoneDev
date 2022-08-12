@@ -47,6 +47,11 @@ I'm a recent graduate from Western Governors University with my second bachelors
  :small_blue_diamond: IntelliJ
  :small_blue_diamond: Android Studio
  
+ ### Certifications:
+ [CompTia A+](https://www.credly.com/badges/3470fd88-7451-4db2-9d93-bd4fac1efbb3/public_url)   :small_blue_diamond:   [CompTia Project+](https://www.credly.com/badges/cbe349cd-239b-4356-b59a-a33f9971e058/public_url)
+ 
+<img src = "https://user-images.githubusercontent.com/73630546/184453853-5120a36a-7994-4411-a50d-e482e571f876.png" width="300" height="300">              <img src = "https://user-images.githubusercontent.com/73630546/184454017-a64f9abf-ce7a-418b-aa7d-dbb309126257.png" width="300" height="300">
+ 
  
  ### Current Project I'm Working On:
  :small_blue_diamond: <a href="https://github.com/DathanStoneDev/Random-Animal-Facts">Random Animal Facts - Android Application</a>
