@@ -28,18 +28,16 @@ I'm a recent graduate from Western Governors University with my second bachelors
  :small_blue_diamond: HTML 5
  :small_blue_diamond: CSS 3
  :small_blue_diamond: Javascript
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DathanStoneDev)](https://github.com/anuraghazra/github-readme-stats)
 
  
-### Frameworks:
+### Frameworks/Libraries:
 :small_blue_diamond: Spring Boot
 :small_blue_diamond: Jetpack Compose
+:small_blue_diamond: Retrofit
 :small_blue_diamond: Hint of React
 
 ### Tools:
- :small_blue_diamond: Git
+ :small_blue_diamond: Git/GitHub
  :small_blue_diamond: AWS
  :small_blue_diamond: MongoDB
  :small_blue_diamond: MySQL
