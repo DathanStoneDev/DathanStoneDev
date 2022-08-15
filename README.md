@@ -30,7 +30,7 @@ I'm a recent graduate from Western Governors University with my second bachelors
  :small_blue_diamond: Javascript
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DathanStoneDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DathanStoneDev)](https://github.com/anuraghazra/github-readme-stats)
 
  
 ### Frameworks:
